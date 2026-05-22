@@ -147,7 +147,7 @@ amina = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aminasssssss&show_icons=true&bg_color=fff0f5&border_color=FFB6C1&icon_color=FF69B4&title_color=FF69B4&text_color=666&hide_border=false&count_private=true)](https://github.com/Aminasssssss)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aminasssssss&show_icons=true&theme=swift&hide_border=true)](https://github.com/Aminasssssss)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminasssssss&langs_count=8&layout=compact&bg_color=fff0f5&border_color=FFB6C1&title_color=FF69B4&text_color=666)](https://github.com/Aminasssssss)
 
