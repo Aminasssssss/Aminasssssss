@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="90px" />
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80px" />
 
 <br>
 
@@ -8,15 +8,11 @@
 
 <br>
 
-<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="22px" />
-<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="22px" />
-<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="22px" />
+![](https://img.shields.io/badge/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-FFB6C1?style=flat-square&logoColor=white)
 
 </div>
 
 <br>
-
-<div align="center">
 
 ```python
 amina = {
@@ -30,13 +26,11 @@ amina = {
 }
 ```
 
-</div>
-
 <br>
 
 ---
 
-**education** &nbsp; <img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="18px" />
+**education**
 
 &nbsp;&nbsp;&nbsp; **KBTU** — Kazakh-British Technical University, Information Systems, 2024–2028, GPA 3.58
 
@@ -44,7 +38,7 @@ amina = {
 
 ---
 
-**experience** &nbsp; <img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="18px" />
+**experience**
 
 &nbsp;&nbsp;&nbsp; **Full-Stack Developer @ Enactus KBTU** — building Kariyer.kz, career platform for students (Angular 21 + Django REST + JWT). User auth, job listings, application tracking. Agile, code reviews, sprint planning.
 
@@ -52,7 +46,7 @@ amina = {
 
 ---
 
-**courses** &nbsp; <img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="18px" />
+**courses**
 
 &nbsp;&nbsp;&nbsp; Machine Learning Specialization — Andrew Ng (Coursera)
 
@@ -66,7 +60,7 @@ amina = {
 
 ---
 
-**tech stack** &nbsp; <img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="18px" />
+**tech stack**
 
 <div align="center">
 
@@ -117,7 +111,7 @@ amina = {
 
 ---
 
-**projects** &nbsp; <img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="18px" />
+**projects**
 
 &nbsp;&nbsp;&nbsp; [telecom-churn-mlops](https://github.com/Aminasssssss/telecom-churn-mlops)
 &nbsp; churn prediction · sklearn · mlflow · fastapi · docker · shap · github actions · pytest
@@ -159,16 +153,6 @@ amina = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aminasssssss&background=fff0f5&border=FFB6C1&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=aaa)](https://github.com/Aminasssssss)
 
-</div>
-
----
-
-<div align="center">
-
-republican math olympiad — 3rd place &nbsp;·&nbsp; iranian geometry olympiad — 2nd place
-
-debate finalist in english — scholar's cup, owlypia &nbsp;·&nbsp; regional science project finalist — physics
-
 <br>
 
 [![Email](https://img.shields.io/badge/gmail-FFB6C1?style=flat-square&logo=gmail&logoColor=white)](mailto:aminazhumataeva6@gmail.com)
@@ -176,6 +160,10 @@ debate finalist in english — scholar's cup, owlypia &nbsp;·&nbsp; regional sc
 
 <br>
 
-<img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="55px" />
+republican math olympiad — 3rd place &nbsp;·&nbsp; iranian geometry olympiad — 2nd place &nbsp;·&nbsp; debate finalist — scholar's cup &nbsp;·&nbsp; regional science finalist — physics
+
+<br>
+
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60px" />
 
 </div>
