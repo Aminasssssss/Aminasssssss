@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80px" />
+<img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="80px" />
 
 <br>
 
@@ -164,6 +164,6 @@ republican math olympiad — 3rd place &nbsp;·&nbsp; iranian geometry olympiad 
 
 <br>
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60px" />
+<img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="60px" />
 
 </div>
