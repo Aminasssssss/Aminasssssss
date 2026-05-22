@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="80px" />
+<img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="90px" />
 
 <br>
 
@@ -8,7 +8,9 @@
 
 <br>
 
-![](https://img.shields.io/badge/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-FFB6C1?style=flat-square&logoColor=white)
+<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="22px" />
+<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="22px" />
+<img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="22px" />
 
 </div>
 
@@ -147,11 +149,11 @@ amina = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aminasssssss&show_icons=true&theme=swift&hide_border=true)](https://github.com/Aminasssssss)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aminasssssss&show_icons=true&bg_color=fff0f5&border_color=FFB6C1&icon_color=FF69B4&title_color=FF69B4&text_color=666&count_private=true)](https://github.com/Aminasssssss)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminasssssss&langs_count=8&layout=compact&bg_color=fff0f5&border_color=FFB6C1&title_color=FF69B4&text_color=666)](https://github.com/Aminasssssss)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aminasssssss&theme=default)](https://github.com/Aminasssssss)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aminasssssss&background=fff0f5&border=FFB6C1&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=aaa)](https://github.com/Aminasssssss)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aminasssssss&background=fff0f5&border=FFB6C1&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=999999)](https://github.com/Aminasssssss)
 
 <br>
 
@@ -164,6 +166,6 @@ republican math olympiad — 3rd place &nbsp;·&nbsp; iranian geometry olympiad 
 
 <br>
 
-<img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.gif" width="60px" />
+<img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="55px" />
 
 </div>
