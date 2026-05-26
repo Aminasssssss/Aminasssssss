@@ -173,6 +173,8 @@ amina = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aminasssssss&background=fff0f5&border=FFB6C1&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=999999)](https://github.com/Aminasssssss)
 
+![GitHub Trophies](https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/static/github-profile-trophy-social.png)
+
 <br>
 
 [![Email](https://img.shields.io/badge/gmail-FFB6C1?style=flat-square&logo=gmail&logoColor=white)](mailto:aminazhumataeva6@gmail.com)
