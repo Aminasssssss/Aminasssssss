@@ -20,7 +20,7 @@
 amina = {
     "name"       : "Zhumatayeva Amina",
     "university" : "KBTU — Information Systems '28",
-    "gpa"        : 3.58,
+    "gpa"        : 3.42,
     "location"   : "Almaty, Kazakhstan",
     "languages"  : ["Kazakh (native)", "Russian (C2)", "English (B2)"],
     "focus"      : ["Machine Learning", "MLOps", "Full-Stack Dev"],
