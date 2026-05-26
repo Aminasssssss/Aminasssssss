@@ -103,11 +103,21 @@ amina = {
 ![GitHub Actions](https://img.shields.io/badge/github_actions-FFC0CB?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FFC0CB?style=flat-square&logo=linux&logoColor=white)
 
+**segmentation & drift**
+![K-Means](https://img.shields.io/badge/k--means-FFB6C1?style=flat-square&logoColor=white)
+![DBSCAN](https://img.shields.io/badge/dbscan-FFB6C1?style=flat-square&logoColor=white)
+![Silhouette](https://img.shields.io/badge/silhouette-FFB6C1?style=flat-square&logoColor=white)
+![PSI](https://img.shields.io/badge/psi-FFB6C1?style=flat-square&logoColor=white)
+![KS Test](https://img.shields.io/badge/ks_test-FFB6C1?style=flat-square&logoColor=white)
+
 </div>
 
 ---
 
 **projects**
+
+&nbsp;&nbsp;&nbsp; [telecom-customer-intelligence](https://github.com/Aminasssssss/telecom-customer-intelligence)
+&nbsp; customer segmentation · churn prediction · xgboost · lightgbm · rfm scoring · drift detection (psi+ks) · mlflow · fastapi · streamlit · k8s · phase 1 complete
 
 &nbsp;&nbsp;&nbsp; [mastercard-hidden-entrepreneurs](https://github.com/Aminasssssss/mastercard-hidden-entrepreneurs)
 &nbsp; mastercard data quest 2026 · hidden entrepreneur detection · xgboost · lightgbm · fastapi · shap · mlflow · k8s · terraform · prometheus
@@ -156,6 +166,8 @@ amina = {
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aminasssssss&show_icons=true&bg_color=fff0f5&border_color=FFB6C1&icon_color=FF69B4&title_color=FF69B4&text_color=666&count_private=true)](https://github.com/Aminasssssss)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aminasssssss&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title_color=FF69B4)](https://github.com/Aminasssssss)
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aminasssssss&theme=default)](https://github.com/Aminasssssss)
 
