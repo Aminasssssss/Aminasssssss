@@ -34,7 +34,7 @@ amina = {
 
 **education**
 
-&nbsp;&nbsp;&nbsp; **KBTU** — Kazakh-British Technical University, Information Systems, 2024–2028, GPA 3.58
+&nbsp;&nbsp;&nbsp; **KBTU** — Kazakh-British Technical University, Information Systems, 2024–2028, GPA 3.42
 
 &nbsp;&nbsp;&nbsp; **Bilim-Innovation Lyceum for Girls**, 2019–2024, GPA 4.00
 
