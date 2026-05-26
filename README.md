@@ -167,13 +167,11 @@ amina = {
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aminasssssss&show_icons=true&bg_color=fff0f5&border_color=FFB6C1&icon_color=FF69B4&title_color=FF69B4&text_color=666&count_private=true)](https://github.com/Aminasssssss)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aminasssssss&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&title_color=FF69B4)](https://github.com/Aminasssssss)
-
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aminasssssss&theme=default)](https://github.com/Aminasssssss)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aminasssssss&background=fff0f5&border=FFB6C1&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=999999)](https://github.com/Aminasssssss)
 
-![GitHub Trophies](https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/static/github-profile-trophy-social.png)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aminasssssss&bg_color=fff0f5&color=FF69B4&line=FFB6C1&point=FF69B4&area=true&hide_border=true)](https://github.com/Aminasssssss)
 
 <br>
 
