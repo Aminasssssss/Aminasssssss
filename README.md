@@ -69,44 +69,38 @@ amina = {
 **ml & data**
 
 ![Python](https://img.shields.io/badge/python-FFB6C1?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-FFB6C1?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-FFB6C1?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/xgboost-FFB6C1?style=flat-square&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/lightgbm-FFB6C1?style=flat-square&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/catboost-FFB6C1?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-FFB6C1?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-FFB6C1?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-FFB6C1?style=flat-square&logo=numpy&logoColor=white)
 ![SHAP](https://img.shields.io/badge/shap-FFB6C1?style=flat-square&logoColor=white)
-![SMOTE](https://img.shields.io/badge/smote-FFB6C1?style=flat-square&logoColor=white)
 
-**mlops & backend**
+**data engineering & orchestration**
+
+![Apache Airflow](https://img.shields.io/badge/airflow-FFB6C1?style=flat-square&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FFB6C1?style=flat-square&logo=dbt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-FFB6C1?style=flat-square&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-FFB6C1?style=flat-square&logo=grafana&logoColor=white)
+
+**mlops & deployment**
 
 ![MLflow](https://img.shields.io/badge/mlflow-FF69B4?style=flat-square&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-FF69B4?style=flat-square&logo=fastapi&logoColor=white)
-![Airflow](https://img.shields.io/badge/airflow-FF69B4?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-FF69B4?style=flat-square&logo=docker&logoColor=white)
-![Django](https://img.shields.io/badge/django-FF69B4?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-FF69B4?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-FF69B4?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-FF69B4?style=flat-square&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-FF69B4?style=flat-square&logo=streamlit&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-FF69B4?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-FF69B4?style=flat-square&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/prometheus-FF69B4?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-FF69B4?style=flat-square&logo=grafana&logoColor=white)
-![MinIO](https://img.shields.io/badge/minio-FF69B4?style=flat-square&logoColor=white)
 
-**frontend, tools & networking**
+**frontend & tools**
 
 ![Angular](https://img.shields.io/badge/angular-FFC0CB?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-FFC0CB?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-FFC0CB?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-FFC0CB?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-FFC0CB?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-FFC0CB?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-FFC0CB?style=flat-square&logo=cplusplus&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-FFC0CB?style=flat-square&logo=opencv&logoColor=white)
+![Django](https://img.shields.io/badge/django-FFC0CB?style=flat-square&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FFC0CB?style=flat-square&logo=streamlit&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-FFC0CB?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/git-FFC0CB?style=flat-square&logo=git&logoColor=white)
-![Cisco IOS](https://img.shields.io/badge/cisco_ios-FFC0CB?style=flat-square&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FFC0CB?style=flat-square&logo=linux&logoColor=white)
 
 </div>
@@ -115,8 +109,20 @@ amina = {
 
 **projects**
 
+&nbsp;&nbsp;&nbsp; [mastercard-hidden-entrepreneurs](https://github.com/Aminasssssss/mastercard-hidden-entrepreneurs)
+&nbsp; mastercard data quest 2026 · hidden entrepreneur detection · xgboost · lightgbm · fastapi · shap · mlflow · k8s · terraform · prometheus
+
+&nbsp;&nbsp;&nbsp; [data-engineering-pipeline](https://github.com/Aminasssssss/data-engineering-pipeline)
+&nbsp; kzt exchange rate forecast · nbk api · airflow · dbt · postgresql · ridge regression (mae=0.05) · grafana · docker
+
+&nbsp;&nbsp;&nbsp; [realtime-anomaly-detection](https://github.com/Aminasssssss/realtime-anomaly-detection)
+&nbsp; lstm autoencoder · isolation forest · fastapi · streamlit · shap · prometheus · docker · k8s
+
+&nbsp;&nbsp;&nbsp; [automl-platform](https://github.com/Aminasssssss/AutoML_Platform)
+&nbsp; 6 ml models · mlflow · shap · streamlit · pdf reports · docker · github actions
+
 &nbsp;&nbsp;&nbsp; [telecom-churn-mlops](https://github.com/Aminasssssss/telecom-churn-mlops)
-&nbsp; churn prediction · sklearn · mlflow · fastapi · docker · shap · github actions · pytest
+&nbsp; churn prediction · sklearn · mlflow · fastapi · shap · docker · github actions · pytest
 
 &nbsp;&nbsp;&nbsp; [breast-cancer-prediction-api](https://github.com/Aminasssssss/Breast_Cancer_Prediction_API)
 &nbsp; production ml api · fastapi · mlflow · streamlit · prometheus · drift detection · docker · f1 95.83% · roc-auc 99.37%
