@@ -77,6 +77,7 @@ amina = {
 ![Pandas](https://img.shields.io/badge/pandas-FFB6C1?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-FFB6C1?style=flat-square&logo=numpy&logoColor=white)
 ![SHAP](https://img.shields.io/badge/shap-FFB6C1?style=flat-square&logoColor=white)
+![Surprise](https://img.shields.io/badge/recommender-FFB6C1?style=flat-square&logoColor=white)
 
 **data engineering & orchestration**
 
@@ -110,6 +111,11 @@ amina = {
 ![PSI](https://img.shields.io/badge/psi-FFB6C1?style=flat-square&logoColor=white)
 ![KS Test](https://img.shields.io/badge/ks_test-FFB6C1?style=flat-square&logoColor=white)
 
+**recommender systems**
+![Surprise](https://img.shields.io/badge/surprise-FFB6C1?style=flat-square&logoColor=white)
+![SVD](https://img.shields.io/badge/svd-FFB6C1?style=flat-square&logoColor=white)
+![Collaborative](https://img.shields.io/badge/collaborative-FFB6C1?style=flat-square&logoColor=white)
+
 </div>
 
 ---
@@ -117,7 +123,7 @@ amina = {
 **projects**
 
 &nbsp;&nbsp;&nbsp; [telecom-customer-intelligence](https://github.com/Aminasssssss/telecom-customer-intelligence)
-&nbsp; customer segmentation · churn prediction · xgboost · lightgbm · rfm scoring · drift detection (psi+ks) · mlflow · fastapi · streamlit · k8s · phase 1 complete
+&nbsp; customer segmentation · churn prediction · tariff recommendations · xgboost · lightgbm · rfm scoring · drift detection (psi+ks) · mlflow · fastapi · streamlit · k8s · docker · github actions
 
 &nbsp;&nbsp;&nbsp; [mastercard-hidden-entrepreneurs](https://github.com/Aminasssssss/mastercard-hidden-entrepreneurs)
 &nbsp; mastercard data quest 2026 · hidden entrepreneur detection · xgboost · lightgbm · fastapi · shap · mlflow · k8s · terraform · prometheus
