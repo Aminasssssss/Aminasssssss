@@ -90,9 +90,6 @@ amina = {
 ![MLflow](https://img.shields.io/badge/mlflow-FF69B4?style=flat-square&logo=mlflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-FF69B4?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-FF69B4?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-FF69B4?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-FF69B4?style=flat-square&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-FF69B4?style=flat-square&logo=prometheus&logoColor=white)
 
 **frontend & tools**
 
