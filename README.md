@@ -84,7 +84,6 @@ amina = {
 ![Apache Airflow](https://img.shields.io/badge/airflow-FFB6C1?style=flat-square&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FFB6C1?style=flat-square&logo=dbt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-FFB6C1?style=flat-square&logo=postgresql&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-FFB6C1?style=flat-square&logo=grafana&logoColor=white)
 
 **mlops & deployment**
 
