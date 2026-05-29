@@ -121,9 +121,6 @@ amina = {
 &nbsp;&nbsp;&nbsp; [telecom-customer-intelligence](https://github.com/Aminasssssss/telecom-customer-intelligence)
 &nbsp; customer segmentation · churn prediction · tariff recommendations · xgboost · lightgbm · rfm scoring · drift detection (psi+ks) · mlflow · fastapi · streamlit · k8s · docker · github actions
 
-&nbsp;&nbsp;&nbsp; [mastercard-hidden-entrepreneurs](https://github.com/Aminasssssss/mastercard-hidden-entrepreneurs)
-&nbsp; mastercard data quest 2026 · hidden entrepreneur detection · xgboost · lightgbm · fastapi · shap · mlflow · k8s · terraform · prometheus
-
 &nbsp;&nbsp;&nbsp; [data-engineering-pipeline](https://github.com/Aminasssssss/data-engineering-pipeline)
 &nbsp; kzt exchange rate forecast · nbk api · airflow · dbt · postgresql · ridge regression (mae=0.05) · grafana · docker
 
